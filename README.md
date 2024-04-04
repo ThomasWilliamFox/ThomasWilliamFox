@@ -2,8 +2,9 @@
 
 I am a student at the University of Toronto at the Faculty of Information.
 
-🔭 My research includes analysis of 
+🔭 My research includes analysis of academic research trends as well as community services accesibility. 
 
+🌱 I am currently learning how to build forcasting models to further explore my research. 
 
 <!--
 **ThomasWilliamFox/ThomasWilliamFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
