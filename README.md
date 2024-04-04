@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student at the University of Toronto at the Faculty of Information.
+I am a student at the University of Toronto in the Faculty of Information.
 
 🔭 My research includes analysis of academic research trends as well as community services accesibility. 
 
